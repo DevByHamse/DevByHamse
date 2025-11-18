@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I’m Hamse
 
-<!--
-**DevByHamse/DevByHamse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner developer documenting my journey as I learn and build real projects.
 
-Here are some ideas to get you started:
+🚀 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript (core concepts)
+
+React
+
+Node.js
+
+Building full-stack JS projects
+
+📈 Goals
+
+Build and ship small JavaScript projects
+
+Get comfortable with React + Node
+
+Grow into a full-stack JavaScript developer
+
+📚 Follow My Progress
+
+I’ll be sharing my projects and growth step-by-step here.
+
+Thanks for stopping by!
